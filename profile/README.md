@@ -25,7 +25,8 @@ In addition, generated data can only be structured and made accessible to AI wit
 
 ## What are the core components?
 * MediaWiki, extented with Semantic MediaWiki and various other existing extensions
-* The Mediawiki extensions ['OpenSemanticLab'](https://github.com/OpenSemanticLab/mediawiki-extensions-OpenSemanticLab)
+* The Mediawiki extension ['OpenSemanticLab'](https://github.com/OpenSemanticLab/mediawiki-extensions-OpenSemanticLab)
+* Ontologies, especially the [General Process Ontology](https://github.com/General-Process-Ontology/ontology)
 * A Graph-Datebase, currently blazegraph
 * A Time-Series-Database, currently TimeScaleDB
 * JupyterHub as Workflow-Environment
