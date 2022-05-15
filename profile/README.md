@@ -32,5 +32,6 @@ In addition, generated data can only be structured and made accessible to AI wit
 * JupyterHub as Workflow-Environment
 * Node-RED as Dashboard-Solution
 * A [Python Toolset](https://github.com/OpenSemanticLab/Tools)
+* Connectors to platforms like [IDS](https://internationaldataspaces.org/), [PMD](https://material-digital.de/), etc. (tbd)
 
 
