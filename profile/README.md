@@ -15,6 +15,8 @@ Each piece of information can also be machine-read, blockchain-signed and writte
 As an open system, Open Semantic Lab can be easily adapted with little to none programming knowledge without losing the uniform structure. 
 In this way, we can contribute to everyone's knowledge individually and yet in a standardized way.
 
+[Short Introduction @ EMIRI Workshop "RE-INVENTING MATERIALS RESEARCH"](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf)
+
 ## Which problems are addressed?
 
 ### Loss of knowledge
@@ -27,11 +29,10 @@ In addition, generated data can only be structured and made accessible to AI wit
 * MediaWiki, extented with Semantic MediaWiki and various other existing extensions
 * The Mediawiki extension ['OpenSemanticLab'](https://github.com/OpenSemanticLab/mediawiki-extensions-OpenSemanticLab)
 * Ontologies, especially the [General Process Ontology](https://github.com/General-Process-Ontology/ontology)
-* A Graph-Datebase, currently blazegraph
+* A Graph-Database, currently blazegraph
 * A Time-Series-Database, currently TimeScaleDB
 * JupyterHub as Workflow-Environment
 * Node-RED as Dashboard-Solution
 * A [Python Toolset](https://github.com/OpenSemanticLab/Tools)
-* Connectors to platforms like [IDS](https://internationaldataspaces.org/), [PMD](https://material-digital.de/), etc. (tbd)
-
-
+* Connectors to platforms like [IDS](https://internationaldataspaces.org/), [PMD](https://material-digital.de/), [NFDI/FAIRmat/NOMAD/OASIS](https://www.fairmat-nfdi.eu) etc. (tbd)
+* Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
