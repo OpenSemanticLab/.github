@@ -36,3 +36,11 @@ In addition, generated data can only be structured and made accessible to AI wit
 * A [Python Toolset](https://github.com/OpenSemanticLab/Tools)
 * Connectors to platforms like [IDS](https://internationaldataspaces.org/), [PMD](https://material-digital.de/), [NFDI/FAIRmat/NOMAD/OASIS](https://www.fairmat-nfdi.eu) etc. (tbd)
 * Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
+
+## Current state
+* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de)
+* Docker container comming soon
+* Demo-Instance comming soon
+
+## Contact
+* https://www.isc.fraunhofer.de/digitale-transformation
