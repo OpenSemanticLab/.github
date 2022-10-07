@@ -8,14 +8,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Open Semantic Lab
+# OpenSemanticLab
 
-Open Semantic Lab is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
+OpenSemanticLab is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
 Each piece of information can also be machine-read, blockchain-signed and written to automatically transfer (Lab 4.0) and analyze (AI) measurement data. 
-As an open system, Open Semantic Lab can be easily adapted with little to none programming knowledge without losing the uniform structure. 
+As an open system, OpenSemanticLab can be easily adapted with little to none programming knowledge without losing the uniform structure. 
 In this way, we can contribute to everyone's knowledge individually and yet in a standardized way.
 
-General Introduction [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/files/9684923/2022-08-31_OpenSemanticLab.pdf)
+General Introduction about the Application in Material Science: [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/raw/main/docs/OpenSemanticLab.pdf)
 
 Short Introduction @ [EMIRI Workshop](https://emiri.eu/2022/07/04/digital-revolution-in-materials-discovery/) "RE-INVENTING MATERIALS RESEARCH" as [PDF](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf) or [Video](https://youtu.be/MZlk5Gzy0tc?t=1564)
 
@@ -45,4 +45,5 @@ In addition, generated data can only be structured and made accessible to AI wit
 * Demo-Instance comming soon
 
 ## Contact
-* https://www.isc.fraunhofer.de/digitale-transformation
+* Core Software Development: Simon Stier [[=>Email](mailto:simon.stier@data-info-knowledge.de)] @ https://data-info-knowledge.de/ 
+* Material Science Domain Application & Research: https://www.isc.fraunhofer.de/digitale-transformation
