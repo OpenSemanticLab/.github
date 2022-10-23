@@ -40,7 +40,7 @@ In addition, generated data can only be structured and made accessible to AI wit
 * Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
 
 ## Current state
-* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de)
+* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki)
 * Docker container comming soon
 * Demo-Instance comming soon
 
