@@ -15,7 +15,9 @@ Each piece of information can also be machine-read, blockchain-signed and writte
 As an open system, Open Semantic Lab can be easily adapted with little to none programming knowledge without losing the uniform structure. 
 In this way, we can contribute to everyone's knowledge individually and yet in a standardized way.
 
-General Introduction [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/files/9684923/2022-08-31_OpenSemanticLab.pdf)
+General Introduction 
+* Talk at [SMWCon2022](https://youtu.be/aBl6i7k4pIY)
+* [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/files/9684923/2022-08-31_OpenSemanticLab.pdf)
 
 Short Introduction @ [EMIRI Workshop](https://emiri.eu/2022/07/04/digital-revolution-in-materials-discovery/) "RE-INVENTING MATERIALS RESEARCH" as [PDF](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf) or [Video](https://youtu.be/MZlk5Gzy0tc?t=1564)
 
