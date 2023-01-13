@@ -18,6 +18,7 @@ In this way, we can contribute to everyone's knowledge individually and yet in a
 General Introduction 
 * Talk at [SMWCon2022](https://youtu.be/aBl6i7k4pIY)
 * [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/files/9684923/2022-08-31_OpenSemanticLab.pdf)
+* [Podcast Episode @ Between the Brackets](https://betweenthebrackets.libsyn.com/episode-129-simon-stier)
 
 Short Introduction @ [EMIRI Workshop](https://emiri.eu/2022/07/04/digital-revolution-in-materials-discovery/) "RE-INVENTING MATERIALS RESEARCH" as [PDF](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf) or [Video](https://youtu.be/MZlk5Gzy0tc?t=1564)
 
@@ -37,7 +38,7 @@ In addition, generated data can only be structured and made accessible to AI wit
 * A Time-Series-Database, currently TimeScaleDB
 * JupyterHub as Workflow-Environment
 * Node-RED as Dashboard-Solution
-* A [Python Toolset](https://github.com/OpenSemanticLab/Tools)
+* A [Python Toolset](https://github.com/OpenSemanticLab/osw-python)
 * Connectors to platforms like [IDS](https://internationaldataspaces.org/), [PMD](https://material-digital.de/), [NFDI/FAIRmat/NOMAD/OASIS](https://www.fairmat-nfdi.eu) etc. (tbd)
 * Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
 
