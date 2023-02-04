@@ -10,8 +10,9 @@
 -->
 # Open Semantic Lab
 
-Open Semantic Lab is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
+Open Semantic Lab (OSL) is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
 Each piece of information can also be machine-read, blockchain-signed and written to automatically transfer (Lab 4.0) and analyze (AI) measurement data. 
+OSL actively supports between the unstructured (liquid) and highly structured / ontologized phase of knowledge within organizations the formation of a partially structured (amorphous) phase, which acts as a (crystallization) seed for the consistent growth of the highly structured phase.
 As an open system, Open Semantic Lab can be easily adapted with little to none programming knowledge without losing the uniform structure. 
 In this way, we can contribute to everyone's knowledge individually and yet in a standardized way.
 
