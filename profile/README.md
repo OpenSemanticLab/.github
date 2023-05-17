@@ -46,7 +46,7 @@ In addition, generated data can only be structured and made accessible to AI wit
 ## Current state
 * Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki)
 * [Docker container / stack](https://github.com/OpenSemanticLab/osl-mw-docker-compose)  (work in progress)
-* [Demo-Instance](https://github.com/OpenSemanticLab) (work in progress)
+* [Demo-Instance](https://demo.open-semantic-lab.org) (work in progress)
 
 ## Contact
 * https://www.isc.fraunhofer.de/digitale-transformation
