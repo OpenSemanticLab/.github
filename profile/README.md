@@ -23,6 +23,9 @@ General Introduction
 
 Short Introduction @ [EMIRI Workshop](https://emiri.eu/2022/07/04/digital-revolution-in-materials-discovery/) "RE-INVENTING MATERIALS RESEARCH" as [PDF](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf) or [Video](https://youtu.be/MZlk5Gzy0tc?t=1564)
 
+Related common compontents: [OpenSemanticWorld](https://github.com/OpenSemanticWorld)
+and content packages: [OpenSemanticWorld-Packages](https://github.com/OpenSemanticWorld-Packages)
+
 ## Which problems are addressed?
 
 ### Loss of knowledge
