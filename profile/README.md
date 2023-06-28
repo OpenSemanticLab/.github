@@ -17,6 +17,7 @@ As an open system, Open Semantic Lab can be easily adapted with little to none p
 In this way, we can contribute to everyone's knowledge individually and yet in a standardized way.
 
 General Introduction 
+* [Documentation](https://opensemantic.world/wiki/Item:OSWdb485a954a88465287b341d2897a84d6)
 * Talk at [SMWCon2022](https://youtu.be/aBl6i7k4pIY)
 * [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/files/9684923/2022-08-31_OpenSemanticLab.pdf)
 * [Podcast Episode @ Between the Brackets](https://betweenthebrackets.libsyn.com/episode-129-simon-stier)
@@ -24,7 +25,7 @@ General Introduction
 Short Introduction @ [EMIRI Workshop](https://emiri.eu/2022/07/04/digital-revolution-in-materials-discovery/) "RE-INVENTING MATERIALS RESEARCH" as [PDF](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf) or [Video](https://youtu.be/MZlk5Gzy0tc?t=1564)
 
 Related common compontents: [OpenSemanticWorld](https://github.com/OpenSemanticWorld)
-and content packages: [OpenSemanticWorld-Packages](https://github.com/OpenSemanticWorld-Packages)
+and content packages: [OpenSemanticWorld-Packages](https://github.com/OpenSemanticWorld-Packages), hosted on [opensemantic.world](https://opensemantic.world)
 
 ## Which problems are addressed?
 
@@ -50,6 +51,7 @@ In addition, generated data can only be structured and made accessible to AI wit
 * Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki)
 * [Docker container / stack](https://github.com/OpenSemanticLab/osl-mw-docker-compose)  (work in progress)
 * [Demo-Instance](https://demo.open-semantic-lab.org) (work in progress)
+* [Central Schema Repo/Registry](https://opensemantic.world)
 
 ## Contact
 * https://www.isc.fraunhofer.de/digitale-transformation
