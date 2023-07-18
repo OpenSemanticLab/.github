@@ -38,7 +38,7 @@ In addition, generated data can only be structured and made accessible to AI wit
 * Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
 
 ## Current state
-* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki), [Onterface](https://onterface.open-semantic-lab.org/wiki/) and (OntoWiki)[https://onto-wiki.eu/wiki/Main_Page]
+* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki), [Onterface](https://onterface.open-semantic-lab.org/wiki/) and [OntoWiki](https://onto-wiki.eu/wiki/Main_Page)
 * [Docker container / stack](https://github.com/OpenSemanticLab/osl-mw-docker-compose) 
 * [Demo-Instance](https://demo.open-semantic-lab.org) (work in progress)
 * [Central Schema Repo/Registry](https://opensemantic.world)
