@@ -1,13 +1,3 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 # Open Semantic Lab
 
 Open Semantic Lab (OSL) is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
@@ -48,8 +38,8 @@ In addition, generated data can only be structured and made accessible to AI wit
 * Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
 
 ## Current state
-* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki)
-* [Docker container / stack](https://github.com/OpenSemanticLab/osl-mw-docker-compose)  (work in progress)
+* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki), [Onterface](https://onterface.open-semantic-lab.org/wiki/) and (OntoWiki)[https://onto-wiki.eu/wiki/Main_Page]
+* [Docker container / stack](https://github.com/OpenSemanticLab/osl-mw-docker-compose) 
 * [Demo-Instance](https://demo.open-semantic-lab.org) (work in progress)
 * [Central Schema Repo/Registry](https://opensemantic.world)
 
