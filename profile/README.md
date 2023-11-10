@@ -26,6 +26,7 @@ Most of the knowledge generated in industry and science is irrevocably lost beca
 In addition, generated data can only be structured and made accessible to AI with a great deal of additional effort. 
 
 ## What are the core components?
+* An object oriented linked data schema, see [OO-LD](https://github.com/OO-LD/schema)
 * MediaWiki, extented with Semantic MediaWiki and various other existing extensions
 * The Mediawiki extension ['OpenSemanticLab'](https://github.com/OpenSemanticLab/mediawiki-extensions-OpenSemanticLab)
 * Ontologies, especially the [General Process Ontology](https://github.com/General-Process-Ontology/ontology)
