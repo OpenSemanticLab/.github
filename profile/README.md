@@ -44,5 +44,16 @@ In addition, generated data can only be structured and made accessible to AI wit
 * [Demo-Instance](https://demo.open-semantic-lab.org) (work in progress)
 * [Central Schema Repo/Registry](https://opensemantic.world)
 
+## Screenshots
+### OpenSemanticLab custom landing page displaying the available apps (described by installed schemas)
+![grafik](https://github.com/OpenSemanticLab/.github/assets/52674635/3284cf2c-fdf7-442d-ba64-596a101d6817)
+### OpenSemanticLab workflow to build user specific apps
+![grafik](https://github.com/OpenSemanticLab/.github/assets/52674635/4aa7344e-95d3-4491-ad72-6cffcc93bace)
+### Example of a knowledge graph of various experiments created with OpenSemanticLab
+![grafik](https://github.com/OpenSemanticLab/.github/assets/52674635/455dadb0-82d2-4563-abac-a3e2d87d5185)
+
+
+
+
 ## Contact
 * https://www.isc.fraunhofer.de/digitale-transformation
