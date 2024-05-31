@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11355585.svg)](https://doi.org/10.5281/zenodo.11355585)
 # Open Semantic Lab
 
 Open Semantic Lab (OSL) is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
