@@ -55,7 +55,7 @@ In addition, generated data can only be structured and made accessible to AI wit
 
 ## Demos
 ### KIproBatt Battery Production Knowledge Graph
-![grafik](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.min.gif | width=100)
+![grafik](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.min.gif)
 
 [video link](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.mp4)
 
