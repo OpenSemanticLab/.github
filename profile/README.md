@@ -53,7 +53,11 @@ In addition, generated data can only be structured and made accessible to AI wit
 ### Example of a knowledge graph of various experiments created with OpenSemanticLab
 ![grafik](https://github.com/OpenSemanticLab/.github/assets/52674635/455dadb0-82d2-4563-abac-a3e2d87d5185)
 
+## Demos
+### KIproBatt Battery Production Knowledge Graph
+![grafik](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.min.gif | width=100)
 
+[video link](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.mp4)
 
 
 ## Contact
