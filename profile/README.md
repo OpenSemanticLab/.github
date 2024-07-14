@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11355585.svg)](https://doi.org/10.5281/zenodo.11355585)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11355585.svg )](https://doi.org/10.5281/zenodo.11355585  )
 # Open Semantic Lab
 
 Open Semantic Lab (OSL) is a holistic web platform that can capture all data and ideas and link them precisely (semantically/ontology-based) - no matter if it' s inventory (LIMS), lab notes (ELN), procedures (SOPs) or research (KB). 
@@ -59,6 +59,18 @@ In addition, generated data can only be structured and made accessible to AI wit
 
 [video link](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.mp4)
 
+## Related projects and initiatives
+OpenSemanticLab was adapted/showcased in the following projects and initiatives. Funding information see individual pages / repositories.
+| Name      | Scope | Activity | Link |
+| ----------- | ----------- | ----------- | ----------- |
+| KIproBatt      | National (BMBF)       | Adapted | https://kiprobatt.de |
+| Mat-o-Lab      | National (BMBF)       | Adapted| https://mat-o-lab.open-semantic-lab.org/ |
+| MaterialDigital      | National (BMBF)       | Showcased | https://material-digital.de/  / [Ontology Playground](https://forum.materialdigital.de/t/onboarding-semantische-interoperabilitaet/257) |
+| NFDI MatWerk | National (DFG) | Showcased | https://nfdi-matwerk.de/nfdi/2023/ |
+| BIG-MAP   | EU (HE)        | Adapted | https://big-map.eu/ / [Onterface](https://onterface.open-semantic-lab.org) |
+| Battery2030+   | EU (HE)        | Adapted | https://battery.knowledge-graph.eu |
+| CircEl-Paper   | EU (HE)        | Adapted  | https://circelpaper.projects01.open-semantic-lab.org |
+| ReUse   | EU (HE)        | Adapted | https://reuse.projects01.open-semantic-lab.org/ |
 
 ## Contact
 * https://www.isc.fraunhofer.de/digitale-transformation
