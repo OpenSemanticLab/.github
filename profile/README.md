@@ -8,12 +8,10 @@ As an open system, Open Semantic Lab can be easily adapted with little to none p
 In this way, we can contribute to everyone's knowledge individually and yet in a standardized way.
 
 General Introduction 
-* [Documentation](https://opensemantic.world/wiki/Item:OSWdb485a954a88465287b341d2897a84d6)
-* Talk at [SMWCon2022](https://youtu.be/aBl6i7k4pIY)
+* Talk at [SMWCon2022](https://youtu.be/aBl6i7k4pIY), [SMWCon2023](https://www.youtube.com/watch?v=wHA0DO-zW5A) and [SMWCon2024](https://www.youtube.com/watch?v=oHih-bV5E_0)
 * [OpenSemanticLab.pdf](https://github.com/OpenSemanticLab/.github/files/9684923/2022-08-31_OpenSemanticLab.pdf)
+* [Documentation](https://demo.open-semantic-lab.org/wiki/Item:OSW8bccb1f0123f47d1831a1348ecbe63cc)
 * [Podcast Episode @ Between the Brackets](https://betweenthebrackets.libsyn.com/episode-129-simon-stier)
-
-Short Introduction @ [EMIRI Workshop](https://emiri.eu/2022/07/04/digital-revolution-in-materials-discovery/) "RE-INVENTING MATERIALS RESEARCH" as [PDF](https://emiri.eu/wp-content/uploads/2022/07/7.-2022-06-30_MAP-Workshop_Grenoble_OpenSemanticLab_v2.pdf) or [Video](https://youtu.be/MZlk5Gzy0tc?t=1564)
 
 Related common compontents: [OpenSemanticWorld](https://github.com/OpenSemanticWorld)
 and content packages: [OpenSemanticWorld-Packages](https://github.com/OpenSemanticWorld-Packages), hosted on [opensemantic.world](https://opensemantic.world)
@@ -34,13 +32,12 @@ In addition, generated data can only be structured and made accessible to AI wit
 * A Graph-Database, currently blazegraph
 * A Time-Series-Database, currently TimeScaleDB
 * JupyterHub as Workflow-Environment
-* Node-RED as Dashboard-Solution
+* [Panel](https://github.com/holoviz/panel) as Dashboard-Solution
 * A [Python Toolset](https://github.com/OpenSemanticLab/osw-python)
-* Connectors to platforms like [IDS](https://internationaldataspaces.org/), [PMD](https://material-digital.de/), [NFDI/FAIRmat/NOMAD/OASIS](https://www.fairmat-nfdi.eu) etc. (tbd)
-* Interfaces to other ELN / LIMS tools like [openBIS](https://openbis.ch/) (in work)
+* An [agentic AI chatbot framework](https://github.com/opensemanticworld/osw-chatbot)
 
 ## Current state
-* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki), [OntoWiki](https://onto-wiki.eu/wiki/Main_Page), [BIG-MAP Onterface](https://onterface.open-semantic-lab.org/wiki/), and [BIG-MAP ELN Prototype](https://osl-sandbox.big-map.eu) 
+* Prototype-Level, applied in multiple research project, e. g. [KIproBatt](https://kiprobatt.de/wiki), [Battery Knowledge Graph](https://battery.knowledge-graph.eu/), [BIG-MAP Onterface](https://onterface.open-semantic-lab.org/wiki/)
 * Docker [container](https://github.com/OpenSemanticLab/docker-compose-osl-wiki) & [compose](https://github.com/OpenSemanticLab/osl-mw-docker-compose) 
 * [Demo-Instance](https://demo.open-semantic-lab.org) (work in progress)
 * [Central Schema Repo/Registry](https://opensemantic.world)
@@ -58,6 +55,15 @@ In addition, generated data can only be structured and made accessible to AI wit
 ![grafik](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.min.gif)
 
 [video link](https://raw.githubusercontent.com/KIproBatt/kiprobatt-dataset/main/docs/KIproBatt-KnowledgeGraph-WalkThrough.mp4)
+
+### Chatbot Interface
+
+https://github.com/user-attachments/assets/8760397a-3089-4758-b480-d2cee9463234
+> AI assisted form-completion based on a uploaded data sheet
+
+
+[![LLM Agentic with Code Generation for Scientific Data Analysis](http://img.youtube.com/vi/8XypKdFaxpM/0.jpg)](http://www.youtube.com/watch?v=8XypKdFaxpM "LLM Agentic with Code Generation for Scientific Data Analysis")
+> LLM Agentic with Code Generation for Scientific Data Analysis
 
 ## Related projects and initiatives
 OpenSemanticLab was adapted/showcased in the following projects and initiatives. Funding information see individual pages / repositories.
